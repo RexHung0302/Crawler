@@ -14,7 +14,8 @@
 ```
 1. $ Git Clone
 2. $ cd Crawler
-3. $ node index.js
+3. $ npm install
+4. $ node index.js
 ```
 
 ### 測試
